@@ -50,10 +50,10 @@ Attributes derived from a combination of the main attributes and level / class.
 
 These are the phases of a player turn.
 
-- Hero Phase
-- Exploration Phase
-- Villain Phase
-- Cleanup
+1. Hero Phase
+2. Exploration Phase
+3. Villain Phase
+4. Cleanup
 
 #### Hero Phase
 
@@ -69,7 +69,33 @@ When a player has finished the Hero Phase the Exploration Phase begins.
 
 #### Exploration Phase
 
+This is the phase in which you add new Dungeon Tiles, draw Monster Cards and place Monsters.
 
+1. If your Hero occupies and unexplored edge space, go on to Step 2.
+
+If you aren't on an unexplored edge space, you aren't in position to draw and place a new Dungeon Tile. In this case, go on to the Villain phase.
+
+2. Draw a Dungeon Tile and place it with it's triangle pointing to the unexplored edge of the tile you are exploring from.
+
+3. Place a Monster on the new tile.
+
+When you have finished all the steps in your Exploration Phase, your Villain Phase begins.
+
+<aside>
+  When you have to "place a monster," this is shorthand for draw a Monster Card of a level that matches your Hero's level and place the corresponding Monster figure on the bone pile that's on the Dungeon Tile you just placed.
+</aside>
+
+#### Villain Phase
+
+This is the phase in which you draw and play Encounter Cards, as well as when you activate the Villain (if the Villain is in play) and any Monster and Trap Cards you may have.
+
+1. If you didn't place a Dungeon Tile in your Exploration Phase, or you didn't end your Exploration phase with a Monster on the same tile, or if you placed a Dungeon Tile with a black triangle, draw and play an Encounter Card.
+
+2. If the Villain is in play, activate the Villain. (There may be more than one Villain in play, depending on the adventure. In this case, activate each Villain, one at a time.)
+
+3. Activate each Monster (except newly placed Monsters) and Trap Card, in turn, in the order you drew them. Follow the tactics on the Monster Card to determine what each Monster does on its turn.
+
+4. Your Hero and any newly placed Monster roll initiative!
 
 ## Misc
 
