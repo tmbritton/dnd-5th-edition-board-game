@@ -95,7 +95,36 @@ This is the phase in which you draw and play Encounter Cards, as well as when yo
 
 3. Activate each Monster (except newly placed Monsters) and Trap Card, in turn, in the order you drew them. Follow the tactics on the Monster Card to determine what each Monster does on its turn.
 
-4. Your Hero and any newly placed Monster roll initiative!
+4. If your Hero has not yet performed an action this turn and only moved once for newly placed Monster roll initiative! Roll a d20 for the Monster and your Hero and add their Dexterity modifiers to the roll. If the Monster's total is higher it performs it's action that applies to the situation. Otherwise the monster is surprised and does nothing on your turn.
+
+When you are done with your Villain Phase, the player to your left begins his or her turn.
+
+### Movement
+
+During your turn your Hero moves through the dungeon crypt to attack Monsters, explore, and achieve the adventure's objective. Use the following rules for movement.
+
+#### When do you move?
+
+Your Hero usually moves during the Hero Phase of your turn.
+
+The effect of an ability, item, or encounter can make your Hero move at other times as well.
+
+#### How Do You Move?
+
+Your Hero moves according to his or her Speed. Your Speed is the number of squares you can move your Hero during your turn.
+
+Think of your Hero's speed as your movement budget. Each time you move a square, you spend 1 point from that budget. When you have no more speed left, you can't move any more.
+
+Each turn you can spend up to your speed budget to move your hero. Your hero can attack either before or after moving, or move twice instead of making an attack.
+
+- Your hero can move in any direction, including diagonally, as long as you have the necessary speed to spend.
+- You can't move your hero into a square filled with a wall.
+- You can't move your hero into a square occupied by a monster.
+- You can move your hero through a square occupied by another hero, bit you can't end your movement there.
+
+### Attacks
+
+A hero makes attacks using his or her hero's spells, abilities, or items. Most abilities are related to the hero's class, but some heroes also have a racial power (such as dragonborn's Dragon Breath).
 
 ## Misc
 
